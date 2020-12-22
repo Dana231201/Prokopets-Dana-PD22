@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-//Bilodid_Daniel_PD-22
+//Prokopets_Dana_PD-22
 //Перевірити істинність вислову: "Дане чотиризначне число читається однаково зліва направо і справа наліво". 
 namespace laba3
 {
