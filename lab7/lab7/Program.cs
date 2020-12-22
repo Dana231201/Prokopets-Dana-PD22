@@ -1,4 +1,4 @@
-﻿//Bilodid_Daniel_PD-22
+﻿//Prokopets_Dana_PD-22
 using System;
 
 namespace lab7
