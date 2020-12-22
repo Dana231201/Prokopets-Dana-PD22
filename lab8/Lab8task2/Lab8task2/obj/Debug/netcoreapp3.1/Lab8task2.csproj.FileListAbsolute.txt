@@ -1,0 +1,13 @@
+F:\Lab8task2\Lab8task2\bin\Debug\netcoreapp3.1\Lab8task2.exe
+F:\Lab8task2\Lab8task2\bin\Debug\netcoreapp3.1\Lab8task2.deps.json
+F:\Lab8task2\Lab8task2\bin\Debug\netcoreapp3.1\Lab8task2.runtimeconfig.json
+F:\Lab8task2\Lab8task2\bin\Debug\netcoreapp3.1\Lab8task2.runtimeconfig.dev.json
+F:\Lab8task2\Lab8task2\bin\Debug\netcoreapp3.1\Lab8task2.dll
+F:\Lab8task2\Lab8task2\bin\Debug\netcoreapp3.1\Lab8task2.pdb
+F:\Lab8task2\Lab8task2\obj\Debug\netcoreapp3.1\Lab8task2.csprojAssemblyReference.cache
+F:\Lab8task2\Lab8task2\obj\Debug\netcoreapp3.1\Lab8task2.AssemblyInfoInputs.cache
+F:\Lab8task2\Lab8task2\obj\Debug\netcoreapp3.1\Lab8task2.AssemblyInfo.cs
+F:\Lab8task2\Lab8task2\obj\Debug\netcoreapp3.1\Lab8task2.csproj.CoreCompileInputs.cache
+F:\Lab8task2\Lab8task2\obj\Debug\netcoreapp3.1\Lab8task2.dll
+F:\Lab8task2\Lab8task2\obj\Debug\netcoreapp3.1\Lab8task2.pdb
+F:\Lab8task2\Lab8task2\obj\Debug\netcoreapp3.1\Lab8task2.genruntimeconfig.cache
